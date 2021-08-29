@@ -1,24 +1,44 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<img src="https://i.ibb.co/M6qdLH5/Screenshot-2021-08-29-165132.png" alt="image host"/>
 
-Things you may want to cover:
+## Description
 
-* Ruby version
+It is a Web Application  where the user can come and publish his advertisement. user have to signup/signin to publish or edit the advertisment.
 
-* System dependencies
 
-* Configuration
 
-* Database creation
+### Features 😊
 
-* Database initialization
+  
+* Register
+* Login
+* Logout
+* Create Advertisement
+* Publish Advertisement
+* Edit Advertisement
+* View Advertisement
+* Delete Advertisement
+* Show All the published advertisement on the homepage for the web app
+* REST API-based architecture
 
-* How to run the test suite
+  
+ ## Installation and running on local server
 
-* Services (job queues, cache servers, search engines, etc.)
+Some basic Git commands are:
 
-* Deployment instructions
+```
+$ git clone https://github.com/AStream26/Advertisment.git
+$ cd advertisment
+$ bundle install
+```
 
-* ...
+## Languages & tools
+
+- [Ruby](https://www.ruby-lang.org/en/)
+
+- [Ruby on Rails](https://rubyonrails.org/)
+
+- [sqlite3](https://www.sqlite.org/index.html)
+
+- [Erb](https://docs.ruby-lang.org/en/2.3.0/ERB.html)
+
